@@ -1,5 +1,5 @@
 # 🚀 Adidas Sales Analysis Dashboard
-![](https://github.com/dasarijashwanth/Adidas-Sales-Analysis/blob/main/logo.png)
+![](https://github.com/dasarijashwanth/Adidas-Sales-Analysis/blob/main/Dashboard.png)
 
 ## 📊 Project Overview
 This project provides an in-depth analysis of **Adidas' sales performance**, highlighting key metrics, regional trends, and product insights. The analysis leverages **data visualization and analytics techniques** to extract meaningful business intelligence.
